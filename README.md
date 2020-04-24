@@ -79,11 +79,11 @@ yarn
 ```
 
 2. Execute a aplicação com o comando:
-Para Android:
+- Para Android:
 ```bash 
 yarn android
 ```
-Para iOS:
+- Para iOS:
 ```bash 
 yarn ios
 ```
